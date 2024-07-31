@@ -1,1 +1,1 @@
-# hangman-game-in-python
+# hangman-game-in-python GUI based
